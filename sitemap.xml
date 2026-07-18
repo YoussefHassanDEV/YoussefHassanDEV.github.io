@@ -10,6 +10,9 @@
   <url><loc>https://youssefhassandev.github.io/category/video-ads/</loc><priority>0.8</priority></url>
   <url><loc>https://youssefhassandev.github.io/category/email-outreach/</loc><priority>0.8</priority></url>
   <url><loc>https://youssefhassandev.github.io/category/analytics-reporting/</loc><priority>0.8</priority></url>
+  <url><loc>https://youssefhassandev.github.io/category/crm-sales/</loc><priority>0.8</priority></url>
+  <url><loc>https://youssefhassandev.github.io/category/automation/</loc><priority>0.8</priority></url>
+  <url><loc>https://youssefhassandev.github.io/category/chatbots-support/</loc><priority>0.8</priority></url>
   <url><loc>https://youssefhassandev.github.io/tools/jasper/</loc><priority>0.7</priority></url>
   <url><loc>https://youssefhassandev.github.io/tools/copy-ai/</loc><priority>0.7</priority></url>
   <url><loc>https://youssefhassandev.github.io/tools/writesonic/</loc><priority>0.7</priority></url>
@@ -54,6 +57,20 @@
   <url><loc>https://youssefhassandev.github.io/tools/databox/</loc><priority>0.7</priority></url>
   <url><loc>https://youssefhassandev.github.io/tools/looker-studio/</loc><priority>0.7</priority></url>
   <url><loc>https://youssefhassandev.github.io/tools/fathom-analytics/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/hubspot/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/pipedrive/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/close/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/salesforce/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/copper/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/zapier/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/make/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/n8n/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/pabbly-connect/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/intercom/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/tidio/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/chatbase/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/crisp/</loc><priority>0.7</priority></url>
+  <url><loc>https://youssefhassandev.github.io/tools/zendesk/</loc><priority>0.7</priority></url>
   <url><loc>https://youssefhassandev.github.io/compare/jasper-vs-anyword/</loc><priority>0.6</priority></url>
   <url><loc>https://youssefhassandev.github.io/compare/jasper-vs-copy-ai/</loc><priority>0.6</priority></url>
   <url><loc>https://youssefhassandev.github.io/compare/jasper-vs-grammarly/</loc><priority>0.6</priority></url>
@@ -155,4 +172,30 @@
   <url><loc>https://youssefhassandev.github.io/compare/looker-studio-vs-databox/</loc><priority>0.6</priority></url>
   <url><loc>https://youssefhassandev.github.io/compare/looker-studio-vs-fathom-analytics/</loc><priority>0.6</priority></url>
   <url><loc>https://youssefhassandev.github.io/compare/databox-vs-fathom-analytics/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/hubspot-vs-close/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/hubspot-vs-copper/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/hubspot-vs-pipedrive/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/hubspot-vs-salesforce/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/close-vs-copper/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/close-vs-pipedrive/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/close-vs-salesforce/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/copper-vs-pipedrive/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/copper-vs-salesforce/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/pipedrive-vs-salesforce/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/make-vs-zapier/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/make-vs-pabbly-connect/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/make-vs-n8n/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/zapier-vs-pabbly-connect/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/zapier-vs-n8n/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/pabbly-connect-vs-n8n/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/chatbase-vs-intercom/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/chatbase-vs-crisp/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/chatbase-vs-tidio/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/chatbase-vs-zendesk/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/intercom-vs-crisp/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/intercom-vs-tidio/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/intercom-vs-zendesk/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/crisp-vs-tidio/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/crisp-vs-zendesk/</loc><priority>0.6</priority></url>
+  <url><loc>https://youssefhassandev.github.io/compare/tidio-vs-zendesk/</loc><priority>0.6</priority></url>
 </urlset>
