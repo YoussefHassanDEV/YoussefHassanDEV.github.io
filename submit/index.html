@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Submit Your Tool — AgencyStack</title>
+    <meta name="description" content="List your AI tool in the AgencyStack directory. Free and featured options available."/>
+    <meta property="og:title" content="Submit Your Tool — AgencyStack"/>
+    <meta property="og:description" content="List your AI tool in the AgencyStack directory. Free and featured options available."/>
+    <meta property="og:type" content="website"/>
+    <link rel="stylesheet" href="/css/style.css"/>
+    <link rel="icon" href="data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;⚡&lt;/text&gt;&lt;/svg&gt;"/>
+    <!-- Google Analytics: dormant until app.site.gaId (env GA_ID) is set -->
+    
+</head>
+<body>
+<header class="site-header">
+    <div class="wrap nav">
+        <a href="/" class="logo"><span class="dot">⚡</span> <span>AgencyStack</span></a>
+        <nav class="nav-links">
+            <a href="/category/content-copywriting/">AI Content &amp; Copywriting</a><a href="/category/seo-tools/">SEO &amp; Rank Tracking</a><a href="/category/social-media/">Social Media Management</a><a href="/category/design-creative/">Design &amp; Creative</a><a href="/category/project-management/">Project &amp; Client Management</a><a href="/category/video-ads/">Video &amp; Ads Creative</a><a href="/category/email-outreach/">Email &amp; Cold Outreach</a><a href="/category/analytics-reporting/">Analytics &amp; Reporting</a>
+        </nav>
+        <a href="/submit" class="nav-cta">Submit a Tool</a>
+    </div>
+</header>
+
+<main class="wrap narrow">
+    
+
+    <div>
+        <h1>Submit your tool</h1>
+        <p class="muted">List your AI tool for agencies. Free basic listing, or get a <strong>featured spot from $49/mo</strong>.</p>
+        <form method="post" action="/submit" class="form"><input type="hidden" name="_csrf" value="hEl8CTzpNILLUyOT4VTNDoOZ2pu3InuiUMjC5QhCKPwKm5hut3oabVndV7vmahv32Xn5a7Or96OAG0iPZf_2hGonTZ5s-apX"/>
+            <label>Tool name <input type="text" required id="toolName" name="toolName" value=""/></label>
+            <label>Website URL <input type="url" placeholder="https://" required id="websiteUrl" name="websiteUrl" value=""/></label>
+            <label>Your email <input type="email" required id="email" name="email" value=""/></label>
+            <label>Tell us about it <textarea rows="4" placeholder="What does it do for agencies?" id="message" name="message"></textarea></label>
+            <label class="check"><input type="checkbox" id="wantsFeatured1" name="wantsFeatured" value="true"/><input type="hidden" name="_wantsFeatured" value="on"/> I'm interested in a featured listing ($49/mo)</label>
+            <button class="btn" type="submit">Submit tool</button>
+        </form>
+    </div>
+</main>
+
+<footer class="site-footer">
+    <div class="wrap">
+        <p><strong>AgencyStack</strong> — <span>The best AI tools for agencies</span>.</p>
+        <p class="muted">Curated for agencies. Some links may be affiliate links. · <a href="/submit">List your tool</a></p>
+    </div>
+</footer>
+</body>
+</html>
